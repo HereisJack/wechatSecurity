@@ -1,0 +1,32 @@
+*.class
+
+#package file
+*.war
+*.ear
+
+#maven ignore
+taget/
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+# temp file
+*.log
+*.cache
+*.diff
+*.tmp
+
+#system
+.DS_Store
+Thumbs.db
+
+#META-INF ignore
+META-INF/
+
+#test ingore
+src/test/
+
